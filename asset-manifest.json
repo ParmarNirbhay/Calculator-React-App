@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clc-react/static/css/main.0348ec29.css",
+    "main.js": "/clc-react/static/js/main.ce8b79b4.js",
+    "index.html": "/clc-react/index.html",
+    "main.0348ec29.css.map": "/clc-react/static/css/main.0348ec29.css.map",
+    "main.ce8b79b4.js.map": "/clc-react/static/js/main.ce8b79b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0348ec29.css",
+    "static/js/main.ce8b79b4.js"
+  ]
+}
